@@ -1,2 +1,3 @@
 # Aiassistant
-An AI assistant
+An AI assistant that can understand and execute voice commands.
+
